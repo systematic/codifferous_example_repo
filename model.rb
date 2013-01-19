@@ -1,4 +1,4 @@
-# This model sucks
+# This file now has changes very far apart
 class Model
   def greeting
     puts "HEYO"
@@ -9,6 +9,6 @@ class Model
   end
 
   def goodbye
-    puts "later sucker!"
+    puts "later sucker!!!"
   end
 end
