@@ -1,6 +1,6 @@
 class Model
   def greeting
-    puts "DERP"
+    puts "HEYO"
   end
 
   def goodbye
