@@ -8,6 +8,10 @@ class Model
     puts "Carl's Jr., fuck you, I'm eating"
   end
 
+  def addition
+    1 + 1
+  end
+
   def goodbye
     puts "later sucker!!!"
   end
