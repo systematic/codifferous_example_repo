@@ -1,5 +1,5 @@
 # This file now has changes very far apart
-class Model
+class SuperModel
   def greeting
     puts "HEYO"
   end
@@ -8,7 +8,4 @@ class Model
     puts "Carl's Jr., fuck you, I'm eating"
   end
 
-  def goodbye
-    puts "later sucker!!!"
-  end
 end
